@@ -14,7 +14,7 @@ sidebar_position: 3
 
 ![List App Packages](./images/list_app_pkgs.png)
 
-## App Package/{app_pkg_id}
+## App Package/\{app_pkg_id\}
 
 ### GET (Individual Package)
 
@@ -28,7 +28,7 @@ sidebar_position: 3
 
 ![Delete App Package](./images/delete_app_pkg.png)
 
-## App Package/{app_pkg_id}/instantiate
+## App Package/\{app_pkg_id\}/instantiate
 
 ### Instantiate
 
