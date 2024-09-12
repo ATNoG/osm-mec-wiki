@@ -4,23 +4,23 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OSM-MEC',
   tagline: 'MEC Apps through NFV Orchestration',
-  favicon: 'img/icons8-favicon-32.png',
+  favicon: 'img/osm-mec_logo.ico',
 
   // Set the production url of your site here
-  url: 'https://SamuTheCoder.github.io/',
+  url: 'https://ATNoG.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/osm-mec-wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'SamuTheCoder', // Usually your GitHub org/user name.
+  organizationName: 'ATNoG', // Usually your GitHub org/user name.
   projectName: 'osm-mec-wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -45,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/SamuTheCoder/osm-mec-wiki/tree/main/',
+            'https://github.com/ATNoG/osm-mec-wiki/tree/main/',
         },
         blog: false,
         theme: {
@@ -64,11 +64,10 @@ const config = {
         title: 'OSM-MEC',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/icons8-favicon-32.png',
+          src: 'img/osm-mec_logo.ico',
         },
-        //items: [
-          
-        //],
+        // items: [
+        // ],
       },
       footer: {
         style: 'dark',
@@ -96,7 +95,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/PedroDSFerreira/osm-mec',
+                href: 'https://github.com/ATNoG/osm-mec',
               },
             ],
           },

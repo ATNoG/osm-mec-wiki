@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # API Docs
 
 #### Discover the functionalities offered by our platform through our API documentation:

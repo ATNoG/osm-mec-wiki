@@ -20,10 +20,12 @@ const sidebars = {
   
   tutorialSidebar: [
     'intro',
-    'project',
-    'api_related',
-    'mec_app',
-    'appd_fields',
+    'infrastructure',
+    'api_requests_flow',
+    'demonstration_app',
+    'api_docs',
+    'create_mec_app_descriptor',
+    'mec_appd_fields',
   ],
    
 };

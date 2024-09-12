@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Getting Started
+# Get Started
 
 ## Requirements
 
@@ -51,11 +51,9 @@ slug: /
 ## CFS Portal
 
 ### Add MEC App to Catalog
-After [creating a MEC App Descriptor](mec_app.md), go to `App Catalog` and upload descriptor:
+After [creating a MEC App Descriptor](create_mec_app_descriptor.md), go to `App Catalog` and upload descriptor:
 
 ![Example Image](./images/dashboard.png)
 
 <br></br>
 ![Example Image](./images/app_catalog.png)
-
-

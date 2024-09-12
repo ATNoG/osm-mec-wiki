@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Create a MEC App Descriptor
 
 1. Create the application
